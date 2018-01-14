@@ -6,3 +6,5 @@ Various web servers are available, with different advantages for usage:
 
 - [Apache](apache.md)
 - [NGINX](nginx.md)
+
+Please research the Terms of Service of your ISP (internet service provider) for bandwidth restrictions if planning to run an internet server.
